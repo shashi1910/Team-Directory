@@ -1,23 +1,23 @@
-# 🎓 MCA GitHub Practice Task: Team Directory
+# MCA GitHub Practice Task: Team Directory
 
-Welcome to the **Team Directory** repository! 🎉  
+Welcome to the **Team Directory** repository!   
 This repository is designed specifically for **MCA juniors** to learn Git and GitHub through hands-on practice with a real collaborative project.
 
-## 🎯 What You'll Learn
+## What You'll Learn
 
 By completing this task, you'll master these essential developer skills:
-- 🔁 **Fork** a repository (create your own copy)
-- 💻 **Clone** it to your local machine
-- 🌿 **Create and switch branches** (organize your work)
-- ✏️ **Edit files** and make meaningful changes
-- ✅ **Stage and commit** your changes with proper messages
-- ☁️ **Push** changes to GitHub
-- 🔃 **Create Pull Requests** (propose your changes)
-- 🤝 **Collaborate** like a professional developer
+- **Fork** a repository (create your own copy)
+- **Clone** it to your local machine
+- **Create and switch branches** (organize your work)
+- **Edit files** and make meaningful changes
+- **Stage and commit** your changes with proper messages
+- **Push** changes to GitHub
+- **Create Pull Requests** (propose your changes)
+- **Collaborate** like a professional developer
 
 ---
 
-## 📋 Your Mission
+## Your Mission
 
 **Goal:** Add your name and details to our class team directory!
 
@@ -29,11 +29,11 @@ By completing this task, you'll master these essential developer skills:
 5. **Commit** your changes with a clear message
 6. **Push** your branch to GitHub
 7. **Create a Pull Request** to submit your contribution
-8. **Celebrate** when your PR gets merged! 🎉
+8. **Celebrate** when your PR gets merged! 
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 team-directory/
@@ -44,9 +44,9 @@ team-directory/
 
 ---
 
-## 🚀 Step-by-Step Instructions
+## Step-by-Step Instructions
 
-### 🔁 Step 1: Fork This Repository
+### Step 1: Fork This Repository
 
 1. Click the **"Fork"** button at the top-right corner of this page
 2. Select your GitHub account as the destination
@@ -55,7 +55,7 @@ team-directory/
 
 ---
 
-### 💻 Step 2: Clone Your Fork Locally
+### Step 2: Clone Your Fork Locally
 
 Open your terminal/command prompt and run these commands:
 
@@ -72,11 +72,11 @@ ls -la
 
 **Replace `YOUR-GITHUB-USERNAME`** with your actual GitHub username!
 
-**💡 Pro Tip:** Use `pwd` (Linux/Mac) or `cd` (Windows) to confirm you're in the right directory.
+**Pro Tip:** Use `pwd` (Linux/Mac) or `cd` (Windows) to confirm you're in the right directory.
 
 ---
 
-### 🌿 Step 3: Create Your Feature Branch
+### Step 3: Create Your Feature Branch
 
 ```bash
 # Create and switch to a new branch
@@ -95,7 +95,7 @@ git branch
 
 ---
 
-### ✏️ Step 4: Add Your Information
+### Step 4: Add Your Information
 
 1. **Open** the `team.md` file in your favorite code editor:
    - VS Code: `code team.md`
@@ -112,16 +112,16 @@ git branch
 
 **Examples:**
 ```markdown
-- **Aarav Patel** | MCA 1st Year - Section A | Love coding in Python 🐍
-- **Priya Sharma** | MCA 1st Year - Section B | Aspiring data scientist 📊
-- **Rohan Kumar** | MCA 1st Year - Section A | Open source enthusiast 🚀
+- **Aarav Patel** | MCA 1st Year - Section A | Love coding in Python 
+- **Priya Sharma** | MCA 1st Year - Section B | Aspiring data scientist 
+- **Rohan Kumar** | MCA 1st Year - Section A | Open source enthusiast 
 ```
 
 4. **Save** the file (`Ctrl+S` or `Cmd+S`)
 
 ---
 
-### ✅ Step 5: Stage and Commit Your Changes
+### Step 5: Stage and Commit Your Changes
 
 ```bash
 # Check what files you've modified
@@ -145,7 +145,7 @@ git commit -m "Add Aarav Patel to team directory"
 
 ---
 
-### ☁️ Step 6: Push to GitHub
+### Step 6: Push to GitHub
 
 ```bash
 # Push your branch to your GitHub fork
@@ -159,7 +159,7 @@ git push -u origin add-your-name
 
 ---
 
-### 🔃 Step 7: Create a Pull Request
+### Step 7: Create a Pull Request
 
 1. **Go to your fork** on GitHub (`https://github.com/YOUR-USERNAME/team-directory`)
 
@@ -187,7 +187,7 @@ git push -u origin add-your-name
 
 ---
 
-## 🛠 Helpful Git Commands Reference
+## Helpful Git Commands Reference
 
 | Command | What it does |
 |---------|-------------|
@@ -200,16 +200,16 @@ git push -u origin add-your-name
 
 ---
 
-## 💡 Pro Tips for Success
+## Pro Tips for Success
 
-### ✅ Best Practices
+### Best Practices
 - **Always check `git status`** before committing
 - **Write clear commit messages** that explain what you did
 - **Test your changes** by viewing the file before committing
 - **Keep commits small and focused** - one change per commit
 - **Ask for help** if you're stuck - that's how you learn!
 
-### 🚫 Common Mistakes to Avoid
+### Common Mistakes to Avoid
 - Don't commit directly to the `main` branch
 - Don't push without testing your changes first
 - Don't use vague commit messages like "fix" or "update"
@@ -217,7 +217,7 @@ git push -u origin add-your-name
 
 ---
 
-## 🆘 Troubleshooting Guide
+## Troubleshooting Guide
 
 ### **Problem:** "Permission denied" when cloning
 **Solution:** Make sure you're cloning YOUR fork, not the original repository.
@@ -250,14 +250,14 @@ git checkout add-your-name     # Your commit is safe here!
 
 ---
 
-## 🎖 Contribution Guidelines
+## Contribution Guidelines
 
 ### What Makes a Good Contribution:
-- ✅ Follows the exact format specified
-- ✅ Only modifies the `team.md` file
-- ✅ Has a clear, descriptive commit message
-- ✅ Includes real information (name, class, interest)
-- ✅ Uses proper grammar and spelling
+- Follows the exact format specified
+- Only modifies the `team.md` file
+- Has a clear, descriptive commit message
+- Includes real information (name, class, interest)
+- Uses proper grammar and spelling
 
 ### Review Criteria:
 Your PR will be approved if it:
@@ -268,9 +268,9 @@ Your PR will be approved if it:
 
 ---
 
-## 🎉 After Your PR is Merged
+## After Your PR is Merged
 
-Congratulations! You've successfully contributed to an open-source project! 🎊
+Congratulations! You've successfully contributed to an open-source project!
 
 ### What's Next:
 1. **Update your local repository:**
@@ -285,13 +285,13 @@ Congratulations! You've successfully contributed to an open-source project! 🎊
    git push origin --delete add-your-name
    ```
 
-3. **Celebrate your achievement!** 🥳 You're now a contributor!
+3. **Celebrate your achievement!** You're now a contributor!
 
 4. **Share your success** - update your LinkedIn, add it to your portfolio!
 
 ---
 
-## 🎓 Learning Resources
+## Learning Resources
 
 ### Git & GitHub Tutorials:
 - [GitHub's Git Handbook](https://guides.github.com/introduction/git-handbook/)
@@ -305,19 +305,19 @@ Congratulations! You've successfully contributed to an open-source project! 🎊
 ---
 
 
-## 🎯 Final Words
+## Final Words
 
 This isn't just about adding your name to a file - you're learning the **exact workflow used by millions of developers worldwide** to contribute to projects like:
-- Linux Operating System 🐧
-- Python Programming Language 🐍
-- React JavaScript Library ⚛️
-- TensorFlow Machine Learning 🤖
+- Linux Operating System 
+- Python Programming Language 
+- React JavaScript Library 
+- TensorFlow Machine Learning 
 
 Every major tech company uses this same Git workflow. **You're learning industry-standard practices!**
 
 ---
 
-**🚀 Ready to start? Fork this repository and begin your journey into professional software development!**
+**Ready to start? Fork this repository and begin your journey into professional software development!**
 
 *Remember: Every expert was once a beginner. Every pro was once an amateur. Every icon was once an unknown. Don't be afraid to make mistakes - that's how you learn!* 💪
 
