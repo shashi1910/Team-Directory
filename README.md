@@ -297,6 +297,7 @@ Congratulations! You've successfully contributed to an open-source project!
 - [GitHub's Git Handbook](https://guides.github.com/introduction/git-handbook/)
 - [Interactive Git Tutorial](https://learngitbranching.js.org/)
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)
+- [GitHub Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ### Command Line Basics:
 - [Command Line Crash Course](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
