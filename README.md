@@ -40,7 +40,6 @@ team-directory/
 │
 ├── README.md          ← You're reading this!
 ├── team.md           ← Add your name here
-└── .gitignore        ← Ignore unnecessary files
 ```
 
 ---
